@@ -2,7 +2,7 @@
 
 ### 第一周：算法-链表篇（2.21-2.27）
 
-- [LeetCode #141环形链表]('./category/algorithm/1Week-leetcode141.md')
-- [LeetCode #142环形链表II]('./category/algorithm/1Week-leetcode142.md')
-- [LeetCode #202快乐数]('./category/algorithm/1Week-leetcode202.md')
-- [LeetCode #206反转链表]('./category/algorithm/1Week-leetcode206.md')
+- [LeetCode #141环形链表](./category/algorithm/1Week-leetcode141.md)
+- [LeetCode #142环形链表II](./category/algorithm/1Week-leetcode142.md)
+- [LeetCode #202快乐数](./category/algorithm/1Week-leetcode202.md)
+- [LeetCode #206反转链表](./category/algorithm/1Week-leetcode206.md)
