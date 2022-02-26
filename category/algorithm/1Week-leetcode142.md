@@ -52,11 +52,11 @@
 };
 ```
 
-最后，不懂快慢指针的可以看[[LeetCode #141环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)](https://github.com/Mizxinp/weekly-frontend-interview/blob/main/category/algorithm/1Week-leetcode141.md)
+最后，不懂快慢指针的可以看[LeetCode #141环形链表](https://github.com/Mizxinp/weekly-frontend-interview/blob/main/category/algorithm/1Week-leetcode141.md)
 
 #### 思路2
 
-上一篇讲了判断链表是否有环讲到了可以使用标志位方式：[[LeetCode #141环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)](https://github.com/Mizxinp/weekly-frontend-interview/blob/main/category/algorithm/1Week-leetcode141.md)
+上一篇讲了判断链表是否有环讲到了可以使用标志位方式：[LeetCode #141环形链表](https://github.com/Mizxinp/weekly-frontend-interview/blob/main/category/algorithm/1Week-leetcode141.md)
 
 使用这种方式获取入环点就很简单了，当flag为true时，此时head就是入环点了
 
