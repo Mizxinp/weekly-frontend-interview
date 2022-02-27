@@ -14,4 +14,4 @@
 - [LeetCode #92 反转链表 II(中等)](./category/algorithm/2Week-leetcode92.md)
 - [LeetCode #25 K个一组反转链表(困难)](./category/algorithm/2Week-leetcode25.md)
 - [LeetCode #61 旋转链表(中等)](./category/algorithm/2Week-leetcode61.md)
-- [LeetCode #24 两辆交换链表中的节点(中等)](./category/algorithm/2Week-leetcode24.md)
+- [LeetCode #24 两两交换链表中的节点(中等)](./category/algorithm/2Week-leetcode24.md)
