@@ -36,16 +36,6 @@ var reverseKGroup = function (head, k) {
   let dummy = new ListNode(-1, head);
   let pre = dummy;
 
-  // do {
-  //   pre.next = reverse(pre.next, k);
-
-  //   for (let i = 0; i < k && pre; i++) {
-  //     pre = pre.next
-  //   }
-
-  //   if (!pre) break
-  // } while (1);
-
   while (1) {
     pre.next = reverse(pre.next, k);
 
