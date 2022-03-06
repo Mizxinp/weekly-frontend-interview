@@ -15,3 +15,9 @@
 - [LeetCode #25 K个一组反转链表(困难)](./category/algorithm/2Week-leetcode25.md)
 - [LeetCode #61 旋转链表(中等)](./category/algorithm/2Week-leetcode61.md)
 - [LeetCode #24 两两交换链表中的节点(中等)](./category/algorithm/2Week-leetcode24.md)
+
+### 第3周：算法-链表篇(链表删除)（3.7-3.13）
+
+- [LeetCode #19 删除链表的倒数第 N 个结点(中等)](./category/algorithm/3Week-leetcode19.md)
+- [LeetCode #83 删除排序链表中的重复元素(简单)](./category/algorithm/3Week-leetcode83.md)
+- [LeetCode #82 删除排序链表中的重复元素 II(中等)](./category/algorithm/3Week-leetcode82.md)
