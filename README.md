@@ -21,3 +21,10 @@
 - [LeetCode #19 删除链表的倒数第 N 个结点(中等)](./category/algorithm/3Week-leetcode19.md)
 - [LeetCode #83 删除排序链表中的重复元素(简单)](./category/algorithm/3Week-leetcode83.md)
 - [LeetCode #82 删除排序链表中的重复元素 II(中等)](./category/algorithm/3Week-leetcode82.md)
+
+### 第4周：算法-链表/队列篇（3.14-3.20）
+
+- [LeetCode #86 分隔链表(中等)](./category/algorithm/4Week-leetcode86.md)
+- [LeetCode #138 复制带随机指针的链表(中等)](./category/algorithm/4Week-leetcode138.md)
+- [LeetCode #622 设计循环队列(中等)](./category/algorithm/4Week-leetcode622.md)
+- [LeetCode #641 设计循环双端队列(中等)](./category/algorithm/4Week-leetcode641.md)
