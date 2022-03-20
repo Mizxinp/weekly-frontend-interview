@@ -28,3 +28,10 @@
 - [LeetCode #138 复制带随机指针的链表(中等)](./category/algorithm/4Week-leetcode138.md)
 - [LeetCode #622 设计循环队列(中等)](./category/algorithm/4Week-leetcode622.md)
 - [LeetCode #641 设计循环双端队列(中等)](./category/algorithm/4Week-leetcode641.md)
+
+### 第5周：算法-队列篇（3.21-3.27）
+
+- [LeetCode #1670 设计前中后队列(中等)](./category/algorithm/5Week-leetcode1670.md)
+- [LeetCode #933 最近的请求次数(简单)](./category/algorithm/5Week-leetcode933.md)
+- [LeetCode #面试题 17.09 第k个数(中等)](./category/algorithm/5Week-17.09.md)
+- [LeetCode #859 亲密字符串(简单)](./category/algorithm/5Week-leetcode859.md)
