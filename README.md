@@ -39,5 +39,5 @@
 ### 第6周：算法（3.28-4.3）
 
 - [LeetCode #860 柠檬水找零(简单)](./category/algorithm/6Week-leetcode860.md)
-- [LeetCode #969  煎饼排序(简单)](./category/algorithm/6Week-leetcode969.md)
+- [LeetCode #969 煎饼排序(中等)](./category/algorithm/6Week-leetcode969.md)
 - [LeetCode #621 任务调度(中等)](./category/algorithm/6Week-leetcode621.md)
