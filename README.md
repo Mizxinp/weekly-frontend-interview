@@ -35,3 +35,9 @@
 - [LeetCode #933 最近的请求次数(简单)](./category/algorithm/5Week-leetcode933.md)
 - [LeetCode #面试题 17.09 第k个数(中等)](./category/algorithm/5Week-17.09.md)
 - [LeetCode #859 亲密字符串(简单)](./category/algorithm/5Week-leetcode859.md)
+
+### 第6周：算法（3.28-4.3）
+
+- [LeetCode #860 柠檬水找零(简单)](./category/algorithm/6Week-leetcode860.md)
+- [LeetCode #969  煎饼排序(简单)](./category/algorithm/6Week-leetcode969.md)
+- [LeetCode #621 任务调度(中等)](./category/algorithm/6Week-leetcode621.md)
