@@ -41,3 +41,10 @@
 - [LeetCode #860 柠檬水找零(简单)](./category/algorithm/6Week-leetcode860.md)
 - [LeetCode #969 煎饼排序(中等)](./category/algorithm/6Week-leetcode969.md)
 - [LeetCode #621 任务调度(中等)](./category/algorithm/6Week-leetcode621.md)
+
+### 第7周：算法-递归与栈（4.4-4.10）
+
+- [LeetCode #20 有效的括号(简单)](./category/algorithm/7Week-leetcode20.md)
+- [LeetCode #145 二叉树的后序遍历(简单)](./category/algorithm/7Week-leetcode145.md)
+- [LeetCode #227 基本计数器II(中等)](./category/algorithm/7Week-leetcode227.md)
+- [LeetCode #331 验证二叉树的前序遍历(中等)](./category/algorithm/7Week-leetcode331.md)
