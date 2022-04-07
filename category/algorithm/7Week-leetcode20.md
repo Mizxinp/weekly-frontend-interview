@@ -6,6 +6,8 @@
 
 #### 思路
 
+维护一个map集合，key为左括号，值为相应的右括号，再创建一个栈存放左括号，遍历字符串，遇到左括号就将其压栈，遇到右括号就比较栈顶左括号对应的右括号是否与当前字符相等，不相等则返回false。最后判断栈是否为空即可
+
 代码：
 
 ```javascript
@@ -16,16 +18,16 @@
 var isValid = function (s) {
   const stack = [];
   const map = new Map([
-    ['(', ')'],
-    ['{', '}'],
-    ['[', ']'],
+    ["(", ")"],
+    ["{", "}"],
+    ["[", "]"],
   ]);
 
   for (ch of s) {
     if (map.has(ch)) {
-      stack.push(map.get(ch));
+      stack.push(ch);
     } else {
-      if (!stack.length || ch !== stack.pop()) {
+      if (!stack.length || ch !== map.get(stack.pop())) {
         return false;
       }
     }
