@@ -48,3 +48,10 @@
 - [LeetCode #145 二叉树的后序遍历(简单)](./category/algorithm/7Week-leetcode145.md)
 - [LeetCode #227 基本计数器II(中等)](./category/algorithm/7Week-leetcode227.md)
 - [LeetCode #331 验证二叉树的前序遍历(中等)](./category/algorithm/7Week-leetcode331.md)
+
+### 第8周：算法-递归与栈（4.18-4.24）
+
+- [LeetCode #636 函数的独占时间(中等)](./category/algorithm/8Week-leetcode636.md)
+- [LeetCode #682 棒球比赛(简单)](./category/algorithm/8Week-leetcode682.md)
+- [LeetCode #844 比较含退格的字符串(简单)](./category/algorithm/8Week-leetcode844.md)
+- [LeetCode #946 验证栈序列(中等)](./category/algorithm/8Week-leetcode946.md)
