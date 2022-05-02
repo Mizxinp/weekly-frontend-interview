@@ -55,3 +55,10 @@
 - [LeetCode #682 棒球比赛(简单)](./category/algorithm/8Week-leetcode682.md)
 - [LeetCode #844 比较含退格的字符串(简单)](./category/algorithm/8Week-leetcode844.md)
 - [LeetCode #946 验证栈序列(中等)](./category/algorithm/8Week-leetcode946.md)
+
+### 第9周：算法-递归与栈（5.2-5.8）
+
+- [LeetCode #1021 删除最外层的括号(简单)](./category/algorithm/9Week-leetcode1021.md)
+- [LeetCode #1124 表现良好的最长时间段(中等)](./category/algorithm/9Week-leetcode1124.md)
+- [LeetCode #1249 移除无效的括号(中等)](./category/algorithm/9Week-leetcode1249.md)
+- [LeetCode #面试题03.04 化栈为队(简单)](./category/algorithm/9Week-leetcode03.04.md)
