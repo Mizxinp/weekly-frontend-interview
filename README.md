@@ -5,8 +5,8 @@
 ### 第11周（5.16-5.22）
 
 - [LeetCode #面试题02.02 返回倒数第k个节点(简单)](./category/algorithm/linked-list/11Week-leetcode02.02.md)
-- [LeetCode #剑指offer22 链表中倒数第k个节点()](./category/algorithm/linked-list/11Week-leetcode-offer22.md)
-- [LeetCode #剑指offer35 复杂链表的复制()](./category/algorithm/linked-list/11Week-leetcode-offer35.md)
+- [LeetCode #剑指offer22 链表中倒数第k个节点(简单)](./category/algorithm/linked-list/11Week-leetcode-offer22.md)
+- [LeetCode #剑指offer35 复杂链表的复制(中等)](./category/algorithm/linked-list/11Week-leetcode-offer35.md)
 
 <details>
   <summary>第10周：算法-递归与栈（5.9-5.15）</summary>
@@ -95,7 +95,7 @@
 
 
 <details>
-  <summary>第一周：算法-链表篇(链表访问)（2.21-2.27）</summary>
+  <summary>第1周：算法-链表篇(链表访问)（2.21-2.27）</summary>
 
 - [LeetCode #141环形链表(简单)](./category/algorithm/linked-list/1Week-leetcode141.md)
 - [LeetCode #142环形链表II(中等)](./category/algorithm/linked-list/1Week-leetcode142.md)
