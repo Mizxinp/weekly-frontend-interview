@@ -66,8 +66,12 @@
 - [LeetCode #61 旋转链表(中等)](./category/algorithm/linked-list/2Week-leetcode61.md)
 - [LeetCode #24 两两交换链表中的节点(中等)](./category/algorithm/linked-list/2Week-leetcode24.md)
 
-### 第一周：算法-链表篇(链表访问)（2.21-2.27）
 
-- [LeetCode #141环形链表(简单)](./category/algorithm/linked-list/1Week-leetcode141.md)
-- [LeetCode #142环形链表II(中等)](./category/algorithm/linked-list/1Week-leetcode142.md)
-- [LeetCode #202快乐数(简单)](./category/algorithm/linked-list/1Week-leetcode202.md)
+<details>
+  <summary>第一周：算法-链表篇(链表访问)（2.21-2.27）</summary>
+
+* [LeetCode #141环形链表(简单)](./category/algorithm/linked-list/1Week-leetcode141.md)
+* [LeetCode #142环形链表II(中等)](./category/algorithm/linked-list/1Week-leetcode142.md)
+* [LeetCode #202快乐数(简单)](./category/algorithm/linked-list/1Week-leetcode202.md)
+</details>
+
