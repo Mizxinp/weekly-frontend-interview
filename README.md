@@ -2,13 +2,18 @@
 
 > 说明：每周日会更新下一周的面试题，每个面试题都会编写相应的解题思路或者是提供相关知识点的阅读文档
 
-### 第12周 链表（5.23-5.29）
+### 第13周 链表（5.30-6.5）
+
+- [LeetCode #143 重排链表(中等)](./category/algorithm/linked-list/13Week-leetcode143.md)
+- [LeetCode #面试题02.08 环路检测(中等)](./category/algorithm/linked-list/13Week-leetcode02.08.md)
+- [LeetCode #707 设计链表(中等)](./category/algorithm/linked-list/13Week-leetcode707.md)
+
+<details>
+  <summary>第12周 链表（5.23-5.29）</summary>
 
 - [LeetCode #面试题02.03 删除中间节点(简单)](./category/algorithm/linked-list/12Week-leetcode02.03.md)
 - [LeetCode #445 两数相加(中等)](./category/algorithm/linked-list/12Week-leetcode445.md)
-- [LeetCode #143 重排链表(中等)](./category/algorithm/linked-list/12Week-leetcode143.md)
-- [LeetCode #面试题02.08 环路检测(中等)](./category/algorithm/linked-list/12Week-leetcode02.08.md)
-- [LeetCode #707 设计链表(中等)](./category/algorithm/linked-list/12Week-leetcode707.md)
+</details>
 
 <details>
   <summary>第11周（5.16-5.22））</summary>
