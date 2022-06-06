@@ -4,7 +4,7 @@
 
 ### 第14周 链表（6.6-6.12）
 
-- [LeetCode #箭指offer18 删除链表的节点(简单)](./category/algorithm/linked-list/14Week-leetcode-offer18.md)
+- [LeetCode #剑指offer18 删除链表的节点(简单)](./category/algorithm/linked-list/14Week-leetcode-offer18.md)
 - [LeetCode #725 分隔链表(中等)](./category/algorithm/linked-list/14Week-leetcode725.md)
 - [LeetCode #面试题02.04 分割链表(中等)](./category/algorithm/linked-list/14Week-leetcode02.04.md)
 
