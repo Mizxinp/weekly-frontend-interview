@@ -8,7 +8,7 @@
 - [LeetCode #剑指offer 10.I 斐波那契数列(简单)](./category/algorithm/linked-list/15Week-leetcode-offer10.I.md)
 
 <details>
-  <summary>第14周 链表（6.6-6.12）</summary>
+  <summary>第14周 链表（6.13-6.19）</summary>
 
 - [LeetCode #剑指 offer18 删除链表的节点(简单)](./category/algorithm/linked-list/14Week-leetcode-offer18.md)
 - [LeetCode #725 分隔链表(中等)](./category/algorithm/linked-list/14Week-leetcode725.md)
