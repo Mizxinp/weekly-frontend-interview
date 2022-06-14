@@ -4,8 +4,8 @@
 
 ### 第 15 周（6.13-6.19）
 
-- [LeetCode #779 第k个语法符号(中等)](./category/algorithm/linked-list/15Week-leetcode779.md)
-- [LeetCode #剑指offer 10.I 斐波那契数列(简单)](./category/algorithm/linked-list/15Week-leetcode-offer10.I.md)
+- [LeetCode #779 第k个语法符号(中等)](./category/algorithm/other/15Week-leetcode779.md)
+- [LeetCode #剑指offer 10.I 斐波那契数列(简单)](./category/algorithm/other/15Week-leetcode-offer10.I.md)
 
 <details>
   <summary>第14周 链表（6.6-6.12）</summary>
