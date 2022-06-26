@@ -5,7 +5,7 @@
 
 ### 第 17 周 二叉树（6.27-7.3）
 
-- - [LeetCode #剑指offer 26 树的子结构(中等)](./category/algorithm/tree/17Week-leetcode-offer26.md)
+- [LeetCode #剑指offer 26 树的子结构(中等)](./category/algorithm/tree/17Week-leetcode-offer26.md)
 - [LeetCode #剑指offer 54 二叉搜索树的第k大节点(简单)](./category/algorithm/tree/17Week-leetcode-offer54.md)
 - [LeetCode #968 监控二叉树(困难)](./category/algorithm/tree/17Week-leetcode968.md)
 - [LeetCode #662 二叉树最大宽度(中等)](./category/algorithm/tree/17Week-leetcode662.md)
