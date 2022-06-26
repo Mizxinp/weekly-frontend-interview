@@ -2,11 +2,21 @@
 
 > 说明：每周日会更新下一周的面试题，每个面试题都会编写相应的解题思路或者是提供相关知识点的阅读文档
 
-### 第 16 周 二叉树（6.20-6.19）
+
+### 第 17 周 二叉树（6.27-7.3）
+
+- - [LeetCode #剑指offer 26 树的子结构(中等)](./category/algorithm/tree/17Week-leetcode-offer26.md)
+- [LeetCode #剑指offer 54 二叉搜索树的第k大节点(简单)](./category/algorithm/tree/17Week-leetcode-offer54.md)
+- [LeetCode #968 监控二叉树(困难)](./category/algorithm/tree/17Week-leetcode968.md)
+- [LeetCode #662 二叉树最大宽度(中等)](./category/algorithm/tree/17Week-leetcode662.md)
+
+<details>
+  <summary>第 16 周（6.20-6.26））</summary>
 
 - [LeetCode #112 路径总和(简单)](./category/algorithm/tree/16Week-leetcode112.md)
 - [LeetCode #105 从前序与中序遍历序列构造二叉树(中等)](./category/algorithm/tree/16Week-leetcode105.md)
 - [LeetCode #222 完全二叉树的节点个数(中等)](./category/algorithm/tree/16Week-leetcode222.md)
+</details>
 
 <details>
   <summary>第 15 周（6.13-6.19））</summary>
