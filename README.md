@@ -3,9 +3,19 @@
 > 说明：每周日会更新下一周的面试题，每个面试题都会编写相应的解题思路或者是提供相关知识点的阅读文档
 
 
-### 第 20 周 【树】-堆与优先队列（9.5-9.11）
+### 第 21 周 【树】-二叉树（9.12-9.18）
+- [LeetCode #144 二叉树的前序遍历(简单)](./category/algorithm/tree/21Week-leetcode144.md)
+- [LeetCode #94 二叉树的中序遍历(简单)](./category/algorithm/tree/21Week-leetcode94.md)
+- [LeetCode #145 二叉树的后序遍历(简单)](./category/algorithm/tree/21Week-leetcode145.md)
+- [LeetCode #102 二叉树的层序遍历(中等)](./category/algorithm/tree/21Week-leetcode102.md)
+- [LeetCode #226 翻转二叉树(中等)](./category/algorithm/tree/21Week-leetcode226.md)
+
+<details>
+  <summary>第 20 周 【树】-堆与优先队列（9.5-9.11））</summary>
+
 - [LeetCode #面试题 17.20 连续中值(中等)](./category/algorithm/tree/20Week-leetcode17.20.md)
 - [LeetCode #295 数据流中的中位数(困难)](./category/algorithm/tree/20Week-leetcode295.md)
+</details>
 
 <details>
   <summary>第 18 周 【树】-二叉树（8.29-9.4）</summary>
