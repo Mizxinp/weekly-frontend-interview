@@ -3,7 +3,7 @@
 > 说明：每周日会更新下一周的面试题，每个面试题都会编写相应的解题思路或者是提供相关知识点的阅读文档
 
 
-### 第 21 周 【树】-二叉树（9.12-9.18）
+### 第 21 周 【树】-二叉树（9.26-10.2）
 - [LeetCode #144 二叉树的前序遍历(简单)](./category/algorithm/tree/21Week-leetcode144.md)
 - [LeetCode #94 二叉树的中序遍历(简单)](./category/algorithm/tree/21Week-leetcode94.md)
 - [LeetCode #145 二叉树的后序遍历(简单)](./category/algorithm/tree/21Week-leetcode145.md)
